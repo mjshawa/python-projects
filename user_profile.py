@@ -11,4 +11,4 @@ hobby = input("Enter your favourite hobby: ")
 
 print(f"Hello  {name}")
 print(f"You are: {age} years old.")
-print(f"Your favourite programing language is {favouritePLanguage} and Your favourite hobby is {hobby}.")
+print(f"Your favourite programming language is {favouritePLanguage} and Your favourite hobby is {hobby}.")
